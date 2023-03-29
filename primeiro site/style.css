@@ -1,0 +1,79 @@
+#series {
+    background-color: #c3f5c3;
+    padding-top: 130px;
+    padding: 03;
+       
+}
+
+#cabecalho {
+    background-color: rgb(29, 110, 11);
+    border: 40px;
+    
+        
+}
+
+
+#mainNav {
+    padding-bottom: 40px;
+    color: rgb(21, 22, 22);
+}
+
+.botao-de-informacoes {
+    border: 50px;
+    
+}
+
+.card {
+    margin-left: 20px;
+    
+}
+
+.card-img-top {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    max-width:280px;
+    max-height:355px;
+    width: auto;
+    height: auto;  
+
+}
+
+
+
+
+.dados {
+    border: 5px;
+    padding: 20px;
+    margin-top: 5px;
+    background-color: rgb(44, 108, 119);
+}
+
+.info {
+    color: white;
+
+}
+
+.row {
+    padding-left: 50px;
+}
+
+.botao-enviar {
+    background-color: rgb(115, 95, 231);
+    color: white;
+}
+
+.btn {
+    max-width:280px;
+    max-height:355px;
+    width: auto;
+    height: auto;   
+    margin: 65px;
+    text-align: center;
+}
+
+.opcoes {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 1095px;
+}
+
